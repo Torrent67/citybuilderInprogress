@@ -5835,11 +5835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/CityMang/CityMang.Tests/Program.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/citybuilderInprogress/CityMang.Tests/Program.Tests.csproj",
       "projectName": "Program.Tests",
-      "projectPath": "/Users/Guest/Desktop/CityMang/CityMang.Tests/Program.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang.Tests/Program.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/CityMang/CityMang.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5856,8 +5856,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/CityMang/CityMang/Program.csproj": {
-              "projectPath": "/Users/Guest/Desktop/CityMang/CityMang/Program.csproj"
+            "/Users/Guest/Desktop/citybuilderInprogress/CityMang/Program.csproj": {
+              "projectPath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang/Program.csproj"
             }
           }
         }

@@ -12081,11 +12081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/CityMang/CityMang/Program.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/citybuilderInprogress/CityMang/Program.csproj",
       "projectName": "Program",
-      "projectPath": "/Users/Guest/Desktop/CityMang/CityMang/Program.csproj",
+      "projectPath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang/Program.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/CityMang/CityMang/obj/",
+      "outputPath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

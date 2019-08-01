@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/Guest/Desktop/CityMang/CityMang/ToDoList.csproj",
+  "FilePath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang/Program.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2940,21 +2940,26 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "ToDoList",
+  "RootNamespace": "Program",
   "Documents": [
     {
-      "FilePath": "Views/Items/Index.cshtml",
-      "TargetPath": "Views/Items/Index.cshtml",
+      "FilePath": "Views/City/myCityUpdated.cshtml",
+      "TargetPath": "Views/City/myCityUpdated.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Items/CreateForm.cshtml",
-      "TargetPath": "Views/Items/CreateForm.cshtml",
+      "FilePath": "Views/City/myCity.cshtml",
+      "TargetPath": "Views/City/myCity.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/City/BuildMenu.cshtml",
+      "TargetPath": "Views/City/BuildMenu.cshtml",
       "FileKind": "mvc"
     }
   ],
